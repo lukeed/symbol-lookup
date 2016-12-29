@@ -2,5 +2,12 @@
   "name": "lookup",
   "version": "0.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "micro -p 3000"
+  },
+  "dependencies": {
+    "got": "^6.7.1",
+    "micro": "^6.1.0"
+  }
 }
