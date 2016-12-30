@@ -3,6 +3,12 @@
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": "lukeed/symbol-lookup",
+  "author": {
+    "name": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "lukeed.com"
+  },
   "scripts": {
     "start": "micro -p 3000"
   },
